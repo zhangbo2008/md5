@@ -1,5 +1,5 @@
 #ifndef MD5_H
-#define MD5_H//从md5项目看 
+#define MD5_H//从md5项目开始学c 
  
 typedef struct
 {
